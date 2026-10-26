@@ -7,3 +7,7 @@ Course: AI & DS
 Student ID: 102
 Name: Amit
 Course: Computer Engineering
+
+Student ID: 103
+Name: Parth
+Course: IT
